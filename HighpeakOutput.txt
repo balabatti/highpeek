@@ -1,0 +1,50 @@
+//output for the program
+
+
+Enter the number of Jobs
+3
+Enter job start time, end time, and earnings
+0900
+1030
+100
+1000
+1200
+500
+1100
+1200
+300
+
+2
+400
+
+Enter the number of Jobs
+3
+Enter job start time, end time, and earnings
+0900
+1000
+250
+0945
+1200
+550
+1130
+1500
+150
+
+2
+400
+
+Enter the number of Jobs
+3
+Enter job start time, end time, and earnings
+0900
+1030
+100
+1000
+1200
+100
+1100
+1200
+100
+
+1
+100
